@@ -1,0 +1,15 @@
+
+.flex{
+    display:flex;
+                flex-wrap: wrap;
+                justify-content: center;
+}
+body{
+    background-image: -webkit-linear-gradient(top, white, #949494);
+    background-image: -moz-linear-gradient(top, white, #84a9ac);
+    background-image: -ms-linear-gradient(top, white, #84a9ac);
+    background-image: -o-linear-gradient(top, white, #84a9ac);
+    background-image: linear-gradient(to bottom, white, #84a9ac);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+}
